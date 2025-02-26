@@ -2,3 +2,4 @@ dotenv
 openai
 langchain
 langchain-community
+langchain-iris
